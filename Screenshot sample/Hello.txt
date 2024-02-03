@@ -1,0 +1,1 @@
+This folder contains the sample city names along with displayed data.
